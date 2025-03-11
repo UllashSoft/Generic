@@ -1,0 +1,7 @@
+F:\ASP.Net\C#\work\genericInterface\obj\Debug\genericInterface.csproj.AssemblyReference.cache
+F:\ASP.Net\C#\work\genericInterface\obj\Debug\genericInterface.csproj.CoreCompileInputs.cache
+F:\ASP.Net\C#\work\genericInterface\bin\Debug\genericInterface.exe.config
+F:\ASP.Net\C#\work\genericInterface\bin\Debug\genericInterface.exe
+F:\ASP.Net\C#\work\genericInterface\bin\Debug\genericInterface.pdb
+F:\ASP.Net\C#\work\genericInterface\obj\Debug\genericInterface.exe
+F:\ASP.Net\C#\work\genericInterface\obj\Debug\genericInterface.pdb
